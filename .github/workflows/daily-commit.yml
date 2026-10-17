@@ -2,9 +2,14 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+    # Runs twice daily at 00:00 UTC and 12:00 UTC (keeps streaks active across time zones)
+    # Examples of alternative schedules:
+    #   - '0 0 * * *'        (Once a day at midnight UTC)
+    #   - '0 0,12 * * *'     (Twice daily at 00:00 and 12:00 UTC)
+    #   - '0 6,18 * * *'     (Twice daily at 06:00 and 18:00 UTC)
+    #   - '0 */6 * * *'      (Every 6 hours)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Allows manual 1-click trigger from GitHub Actions tab
 
 permissions:
   contents: write # Needed to push commits back to repository
@@ -18,11 +23,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Run daily update script
         run: node update.js
@@ -33,4 +39,5 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add streak.json ACTIVITY.md README.md
           git commit -m "chore(auto-commit): daily streak update [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
           git push origin main

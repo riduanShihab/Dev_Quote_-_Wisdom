@@ -17,12 +17,26 @@ An automated, 24/7 cloud-scheduled bot powered by **GitHub Actions** that logs d
 <!-- DAILY-STATS:START -->
 <div align="center">
 
-| 🔥 Current Streak | 🚀 Total Commits | 📅 Last Updated |
-| :---: | :---: | :---: |
-| **3 Days** | **3 Automated** | **2026-10-17 19:17:29 UTC** |
+[![Daily Streak](https://img.shields.io/badge/Streak-5_Days-orange?style=flat&logo=flame)](#-live-streak-dashboard)
+[![Longest Streak](https://img.shields.io/badge/Best_Streak-5_Days-gold?style=flat&logo=trophy)](#-live-streak-dashboard)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-5-blue?style=flat&logo=git)](#-live-streak-dashboard)
+[![Tier](https://img.shields.io/badge/Tier-%F0%9F%8C%B1%20Seedling-purple?style=flat)](#-live-streak-dashboard)
 
-> 💬 _"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."_  
-> — **Antoine de Saint-Exupéry**
+| 🔥 Current Streak | 🏆 Longest Streak | 🚀 Total Commits | 🎯 Current Tier | 📅 Last Updated |
+| :---: | :---: | :---: | :---: | :---: |
+| **5 Days** | **5 Days** | **5 Automated** | **🌱 Seedling** | **2026-10-17 19:21:40 UTC** |
+
+<br/>
+
+**🎯 Next Milestone (5/7 Days)**  
+`[█████████████░░░░░] 71%`
+
+<br/>
+
+> 💡 **Wisdom Chronicle (Refactoring)**  
+> 💬 _"A code refactoring a day keeps technical debt away."_  
+> — **Anonymous**  
+> <small>Source: 📚 Curated Archive</small>
 
 </div>
 <!-- DAILY-STATS:END -->
@@ -35,17 +49,19 @@ An automated, 24/7 cloud-scheduled bot powered by **GitHub Actions** that logs d
 
 ```mermaid
 flowchart LR
-    A[⏰ GitHub Actions Cron: Daily 00:00 UTC] --> B[⚙️ update.js]
-    B --> C[🔥 Increment Streak in streak.json]
-    B --> D[💡 Pick Curated Dev Quote]
+    A[⏰ GitHub Actions: 00:00 & 12:00 UTC] --> B[⚙️ update.js]
+    B --> C[🔥 Increment Streak & Best Streak in streak.json]
+    B --> D[🌐 Fetch Live Quote / Curated Wisdom]
     B --> E[📝 Append Row to ACTIVITY.md]
-    B --> F[📊 Refresh Stats in README.md]
+    B --> F[📊 Refresh Stats & Progress in README.md]
     C & D & E & F --> G[🚀 Auto-Commit & Push to main]
 ```
 
-1. **GitHub Actions Schedule**: Every day at `00:00 UTC` (or whenever triggered manually), GitHub executes the `.github/workflows/daily-commit.yml` workflow.
+1. **GitHub Actions Schedule**: Runs twice daily at `00:00 UTC` and `12:00 UTC` (or whenever triggered manually via `workflow_dispatch`).
 2. **Zero Overhead**: Runs entirely on GitHub's cloud runners without requiring any local machine to stay powered on.
-3. **Meaningful Commits**: Rather than creating empty or dummy commits, each run updates a live counter, selects curated engineering wisdom, and records a timestamped entry in [`ACTIVITY.md`](ACTIVITY.md).
+3. **Dynamic Wisdom & Insights**: Fetches live quotes via public APIs with automatic fallback to a local 60+ quote curated archive.
+4. **Streak & Milestone Progression**: Tracks active streak, historical best streak, total commits, tier badges, and visual milestone progress bars.
+5. **Meaningful Commits**: Rather than creating empty or dummy commits, each run updates a live counter, selects curated engineering wisdom, and records a timestamped entry in [`ACTIVITY.md`](ACTIVITY.md).
 
 ---
 
@@ -76,6 +92,7 @@ You can test or run the workflow anytime without waiting for the scheduled time:
   ```bash
   node update.js
   ```
+  *(or run `run-local.bat` to automatically pull, execute, commit, and push in one go).*
 
 ---
 
@@ -84,12 +101,13 @@ You can test or run the workflow anytime without waiting for the scheduled time:
 ```
 .
 ├── .github/workflows/
-│   └── daily-commit.yml   # Cron & workflow configuration
-├── ACTIVITY.md            # Daily log of timestamps and quotes
-├── README.md              # Project dashboard & documentation
-├── quotes.json            # Curated dev quotes and wisdom
-├── streak.json            # Streak counter state file
-└── update.js              # Script executed on each cycle
+│   └── daily-commit.yml   # Multi-schedule Cron & workflow configuration
+├── ACTIVITY.md            # Daily log of timestamps, quotes, categories & sources
+├── README.md              # Project dashboard, badges & documentation
+├── quotes.json            # 60+ curated developer wisdom & quotes
+├── streak.json            # Streak, milestone, and counter state file
+├── run-local.bat          # 1-click local sync, run, and push batch script
+└── update.js              # Script executed on each automated cycle
 ```
 
 ---
