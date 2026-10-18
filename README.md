@@ -17,25 +17,25 @@ An automated, 24/7 cloud-scheduled bot powered by **GitHub Actions** that logs d
 <!-- DAILY-STATS:START -->
 <div align="center">
 
-[![Daily Streak](https://img.shields.io/badge/Streak-5_Days-orange?style=flat&logo=flame)](#-live-streak-dashboard)
-[![Longest Streak](https://img.shields.io/badge/Best_Streak-5_Days-gold?style=flat&logo=trophy)](#-live-streak-dashboard)
-[![Total Commits](https://img.shields.io/badge/Total_Commits-5-blue?style=flat&logo=git)](#-live-streak-dashboard)
+[![Daily Streak](https://img.shields.io/badge/Streak-6_Days-orange?style=flat&logo=flame)](#-live-streak-dashboard)
+[![Longest Streak](https://img.shields.io/badge/Best_Streak-6_Days-gold?style=flat&logo=trophy)](#-live-streak-dashboard)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-6-blue?style=flat&logo=git)](#-live-streak-dashboard)
 [![Tier](https://img.shields.io/badge/Tier-%F0%9F%8C%B1%20Seedling-purple?style=flat)](#-live-streak-dashboard)
 
 | 🔥 Current Streak | 🏆 Longest Streak | 🚀 Total Commits | 🎯 Current Tier | 📅 Last Updated |
 | :---: | :---: | :---: | :---: | :---: |
-| **5 Days** | **5 Days** | **5 Automated** | **🌱 Seedling** | **2026-10-17 19:21:40 UTC** |
+| **6 Days** | **6 Days** | **6 Automated** | **🌱 Seedling** | **2026-10-18 02:45:27 UTC** |
 
 <br/>
 
-**🎯 Next Milestone (5/7 Days)**  
-`[█████████████░░░░░] 71%`
+**🎯 Next Milestone (6/7 Days)**  
+`[███████████████░░░] 86%`
 
 <br/>
 
-> 💡 **Wisdom Chronicle (Refactoring)**  
-> 💬 _"A code refactoring a day keeps technical debt away."_  
-> — **Anonymous**  
+> 💡 **Wisdom Chronicle (Architecture)**  
+> 💬 _"Controlling complexity is the essence of computer programming."_  
+> — **Brian Kernighan**  
 > <small>Source: 📚 Curated Archive</small>
 
 </div>

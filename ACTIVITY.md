@@ -7,3 +7,4 @@
 | `2026-10-17 19:17:29 UTC` | **Day 3** | _"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."_ | **Antoine de Saint-Exupéry** | `Design` (📚 Curated Archive) |
 | `2026-10-17 19:20:36 UTC` | **Day 4** | _"Life must be a constant education; one must learn everything, from speaking to dying."_ | **Gustave Flaubert** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-17 19:21:40 UTC` | **Day 5** | _"A code refactoring a day keeps technical debt away."_ | **Anonymous** | `Refactoring` (📚 Curated Archive) |
+| `2026-10-18 02:45:27 UTC` | **Day 6** | _"Controlling complexity is the essence of computer programming."_ | **Brian Kernighan** | `Architecture` (📚 Curated Archive) |
