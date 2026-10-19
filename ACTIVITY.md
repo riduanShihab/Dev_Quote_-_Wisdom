@@ -9,3 +9,4 @@
 | `2026-10-17 19:21:40 UTC` | **Day 5** | _"A code refactoring a day keeps technical debt away."_ | **Anonymous** | `Refactoring` (📚 Curated Archive) |
 | `2026-10-18 02:45:27 UTC` | **Day 6** | _"Controlling complexity is the essence of computer programming."_ | **Brian Kernighan** | `Architecture` (📚 Curated Archive) |
 | `2026-10-18 15:17:18 UTC` | **Day 7** | _"Code never lies, comments sometimes do."_ | **Ron Jeffries** | `Clean Code` (📚 Curated Archive) |
+| `2026-10-19 02:58:57 UTC` | **Day 8** | _"If you cannot explain something in simple terms, you don't understand it."_ | **Richard Feynman** | `Philosophy` (📚 Curated Archive) |
