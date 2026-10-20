@@ -12,3 +12,4 @@
 | `2026-10-19 02:58:57 UTC` | **Day 8** | _"If you cannot explain something in simple terms, you don't understand it."_ | **Richard Feynman** | `Philosophy` (📚 Curated Archive) |
 | `2026-10-19 18:15:03 UTC` | **Day 9** | _"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."_ | **Ayn Rand** | `Philosophy & Growth` (🌐 Live API (DummyJSON)) |
 | `2026-10-20 03:08:35 UTC` | **Day 10** | _"Less is more."_ | **Robert Browning** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-10-20 16:15:26 UTC` | **Day 11** | _"Do what is right, not what is easy, nor what is popular."_ | **Roy T. Bennett** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
