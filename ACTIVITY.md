@@ -13,3 +13,4 @@
 | `2026-10-19 18:15:03 UTC` | **Day 9** | _"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."_ | **Ayn Rand** | `Philosophy & Growth` (🌐 Live API (DummyJSON)) |
 | `2026-10-20 03:08:35 UTC` | **Day 10** | _"Less is more."_ | **Robert Browning** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-20 16:15:26 UTC` | **Day 11** | _"Do what is right, not what is easy, nor what is popular."_ | **Roy T. Bennett** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-10-21 03:03:07 UTC` | **Day 12** | _"There is no truth. There is only perception."_ | **Gustave Flaubert** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
