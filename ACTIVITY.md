@@ -15,3 +15,4 @@
 | `2026-10-20 16:15:26 UTC` | **Day 11** | _"Do what is right, not what is easy, nor what is popular."_ | **Roy T. Bennett** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-21 03:03:07 UTC` | **Day 12** | _"There is no truth. There is only perception."_ | **Gustave Flaubert** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-21 16:30:18 UTC` | **Day 13** | _"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."_ | **Maya Angelou** | `Philosophy & Growth` (🌐 Live API (DummyJSON)) |
+| `2026-10-22 03:01:41 UTC` | **Day 14** | _"If you cannot explain something in simple terms, you don't understand it."_ | **Richard Feynman** | `Philosophy` (📚 Curated Archive) |
