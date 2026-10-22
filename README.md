@@ -17,26 +17,26 @@ An automated, 24/7 cloud-scheduled bot powered by **GitHub Actions** that logs d
 <!-- DAILY-STATS:START -->
 <div align="center">
 
-[![Daily Streak](https://img.shields.io/badge/Streak-14_Days-orange?style=flat&logo=flame)](#-live-streak-dashboard)
-[![Longest Streak](https://img.shields.io/badge/Best_Streak-14_Days-gold?style=flat&logo=trophy)](#-live-streak-dashboard)
-[![Total Commits](https://img.shields.io/badge/Total_Commits-14-blue?style=flat&logo=git)](#-live-streak-dashboard)
-[![Tier](https://img.shields.io/badge/Tier-%F0%9F%8C%BF%20Sprout-purple?style=flat)](#-live-streak-dashboard)
+[![Daily Streak](https://img.shields.io/badge/Streak-15_Days-orange?style=flat&logo=flame)](#-live-streak-dashboard)
+[![Longest Streak](https://img.shields.io/badge/Best_Streak-15_Days-gold?style=flat&logo=trophy)](#-live-streak-dashboard)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-15-blue?style=flat&logo=git)](#-live-streak-dashboard)
+[![Tier](https://img.shields.io/badge/Tier-%F0%9F%9A%80%20Momentum-purple?style=flat)](#-live-streak-dashboard)
 
 | 🔥 Current Streak | 🏆 Longest Streak | 🚀 Total Commits | 🎯 Current Tier | 📅 Last Updated |
 | :---: | :---: | :---: | :---: | :---: |
-| **14 Days** | **14 Days** | **14 Automated** | **🌿 Sprout** | **2026-10-22 03:01:41 UTC** |
+| **15 Days** | **15 Days** | **15 Automated** | **🚀 Momentum** | **2026-10-22 16:30:46 UTC** |
 
 <br/>
 
-**🎯 Next Milestone (14/14 Days)**  
-`[██████████████████] 100%`
+**🎯 Next Milestone (15/30 Days)**  
+`[█░░░░░░░░░░░░░░░░░] 6%`
 
 <br/>
 
-> 💡 **Wisdom Chronicle (Philosophy)**  
-> 💬 _"If you cannot explain something in simple terms, you don't understand it."_  
-> — **Richard Feynman**  
-> <small>Source: 📚 Curated Archive</small>
+> 💡 **Wisdom Chronicle (Wisdom & Mindset)**  
+> 💬 _"Everybody by your side ain't on your side."_  
+> — **Steve Harvey**  
+> <small>Source: 🌐 Live API (ZenQuotes)</small>
 
 </div>
 <!-- DAILY-STATS:END -->
