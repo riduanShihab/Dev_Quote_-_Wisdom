@@ -18,3 +18,4 @@
 | `2026-10-22 03:01:41 UTC` | **Day 14** | _"If you cannot explain something in simple terms, you don't understand it."_ | **Richard Feynman** | `Philosophy` (📚 Curated Archive) |
 | `2026-10-22 16:30:46 UTC` | **Day 15** | _"Everybody by your side ain't on your side."_ | **Steve Harvey** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-23 03:06:06 UTC` | **Day 16** | _"If you build the guts to do something, anything, then you better save enough to face the consequences."_ | **Criss Jami** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-10-23 16:21:07 UTC` | **Day 17** | _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ | **Martin Fowler** | `Clean Code` (📚 Curated Archive) |
