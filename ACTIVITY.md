@@ -26,3 +26,4 @@
 | `2026-10-26 02:54:16 UTC` | **Day 22** | _"The first step is to establish that something is possible; then probability will occur."_ | **Elon Musk** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-26 18:08:25 UTC` | **Day 23** | _"Dreams provide nourishment for the soul, just as a meal does for the body."_ | **Paulo Coelho** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-27 03:27:36 UTC` | **Day 24** | _"The secret to building large apps is never build large apps. Break your applications into small pieces."_ | **Justin Meyer** | `Architecture` (📚 Curated Archive) |
+| `2026-10-27 17:20:13 UTC` | **Day 25** | _"Software is a great combination between artistry and engineering."_ | **Bill Gates** | `Craftsmanship` (📚 Curated Archive) |
