@@ -29,3 +29,4 @@
 | `2026-10-27 17:20:13 UTC` | **Day 25** | _"Software is a great combination between artistry and engineering."_ | **Bill Gates** | `Craftsmanship` (📚 Curated Archive) |
 | `2026-10-28 03:43:24 UTC` | **Day 26** | _"We live only now. Everything else is either passed or is unknown."_ | **Marcus Aurelius** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-28 17:49:31 UTC` | **Day 27** | _"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."_ | **F. Scott Fitzgerald** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-10-29 04:04:00 UTC` | **Day 28** | _"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."_ | **Marie Curie** | `Philosophy & Growth` (🌐 Live API (DummyJSON)) |
