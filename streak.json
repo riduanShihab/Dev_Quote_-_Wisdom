@@ -1,13 +1,13 @@
 {
-  "currentStreak": 30,
-  "longestStreak": 30,
-  "totalCommits": 30,
+  "currentStreak": 31,
+  "longestStreak": 31,
+  "totalCommits": 31,
   "startDate": "2026-10-16",
-  "lastUpdated": "2026-10-30 04:05:36 UTC",
-  "lastQuote": "A language that doesn't affect the way you think about programming is not worth knowing.",
-  "lastAuthor": "Alan J. Perlis",
-  "lastCategory": "Software Philosophy",
+  "lastUpdated": "2026-10-30 17:38:51 UTC",
+  "lastQuote": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.",
+  "lastAuthor": "Brian Kernighan",
+  "lastCategory": "Debugging",
   "lastSource": "📚 Curated Archive",
-  "currentTier": "🚀 Momentum",
-  "nextGoal": 30
+  "currentTier": "💎 Diamond",
+  "nextGoal": 60
 }

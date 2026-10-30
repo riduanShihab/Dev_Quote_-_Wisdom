@@ -32,3 +32,4 @@
 | `2026-10-29 04:04:00 UTC` | **Day 28** | _"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."_ | **Marie Curie** | `Philosophy & Growth` (🌐 Live API (DummyJSON)) |
 | `2026-10-29 17:56:37 UTC` | **Day 29** | _"You can easily judge the character of a man by how he treats those who can do nothing for him."_ | **Johann Wolfgang von Goethe** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-10-30 04:05:36 UTC` | **Day 30** | _"A language that doesn't affect the way you think about programming is not worth knowing."_ | **Alan J. Perlis** | `Software Philosophy` (📚 Curated Archive) |
+| `2026-10-30 17:38:51 UTC` | **Day 31** | _"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements."_ | **Brian Kernighan** | `Debugging` (📚 Curated Archive) |
