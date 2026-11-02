@@ -38,3 +38,4 @@
 | `2026-11-01 03:58:30 UTC` | **Day 34** | _"Complexity is the enemy of execution."_ | **Tony Robbins** | `Simplicity` (📚 Curated Archive) |
 | `2026-11-01 17:32:58 UTC` | **Day 35** | _"Walking on water and developing software from a specification are easy if both are frozen."_ | **Edward V. Berard** | `Agile` (📚 Curated Archive) |
 | `2026-11-02 04:02:07 UTC` | **Day 36** | _"Complexity is the enemy of execution."_ | **Tony Robbins** | `Simplicity` (📚 Curated Archive) |
+| `2026-11-02 21:18:40 UTC` | **Day 37** | _"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."_ | **Ming-Dao Deng** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
