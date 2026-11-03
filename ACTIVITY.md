@@ -40,3 +40,4 @@
 | `2026-11-02 04:02:07 UTC` | **Day 36** | _"Complexity is the enemy of execution."_ | **Tony Robbins** | `Simplicity` (📚 Curated Archive) |
 | `2026-11-02 21:18:40 UTC` | **Day 37** | _"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."_ | **Ming-Dao Deng** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-03 05:03:57 UTC` | **Day 38** | _"Nothing like a health problem to turn up the contrast dial for the rest of life."_ | **Naval Ravikant** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-03 18:58:14 UTC` | **Day 39** | _"The bearing of a child takes nine months, no matter how many women are assigned."_ | **Fred Brooks** | `Project Management` (📚 Curated Archive) |
