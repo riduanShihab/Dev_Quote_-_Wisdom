@@ -43,3 +43,4 @@
 | `2026-11-03 18:58:14 UTC` | **Day 39** | _"The bearing of a child takes nine months, no matter how many women are assigned."_ | **Fred Brooks** | `Project Management` (📚 Curated Archive) |
 | `2026-11-04 04:36:17 UTC` | **Day 40** | _"Always turn a negative situation into a positive situation."_ | **Michael Jordan** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-04 19:15:48 UTC` | **Day 41** | _"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."_ | **Antoine de Saint-Exupéry** | `Design` (📚 Curated Archive) |
+| `2026-11-05 04:51:13 UTC` | **Day 42** | _"Everybody by your side ain't on your side."_ | **Steve Harvey** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
