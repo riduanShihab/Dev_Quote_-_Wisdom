@@ -44,3 +44,4 @@
 | `2026-11-04 04:36:17 UTC` | **Day 40** | _"Always turn a negative situation into a positive situation."_ | **Michael Jordan** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-04 19:15:48 UTC` | **Day 41** | _"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."_ | **Antoine de Saint-Exupéry** | `Design` (📚 Curated Archive) |
 | `2026-11-05 04:51:13 UTC` | **Day 42** | _"Everybody by your side ain't on your side."_ | **Steve Harvey** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-05 19:24:22 UTC` | **Day 43** | _"If you want peace, you won't get it with violence."_ | **John Lennon** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
