@@ -48,3 +48,4 @@
 | `2026-11-06 04:50:26 UTC` | **Day 44** | _"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."_ | **Socrates** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-06 18:48:31 UTC` | **Day 45** | _"If you look for perfection, you'll never be content."_ | **Leo Tolstoy** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-07 04:20:31 UTC` | **Day 46** | _"You can only lose something that you have, but you cannot lose something that you are."_ | **Eckhart Tolle** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-07 17:20:04 UTC` | **Day 47** | _"The only way to go fast, is to go well."_ | **Robert C. Martin** | `Productivity` (📚 Curated Archive) |
