@@ -52,3 +52,4 @@
 | `2026-11-08 04:03:19 UTC` | **Day 48** | _"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."_ | **John Woods** | `Maintainability` (📚 Curated Archive) |
 | `2026-11-08 17:31:30 UTC` | **Day 49** | _"The computer was born to solve problems that did not exist before."_ | **Bill Gates** | `Wisdom` (📚 Curated Archive) |
 | `2026-11-09 04:20:03 UTC` | **Day 50** | _"We have no more right to consume happiness without producing it than to consume wealth without producing it."_ | **George Bernard Shaw** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-09 21:52:10 UTC` | **Day 51** | _"Where there is anger, there is always pain underneath."_ | **Eckhart Tolle** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
