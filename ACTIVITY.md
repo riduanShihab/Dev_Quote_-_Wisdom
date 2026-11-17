@@ -67,3 +67,4 @@
 | `2026-11-15 18:25:05 UTC` | **Day 63** | _"One must be poor to know the luxury of giving."_ | **George Eliot** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-16 04:28:26 UTC` | **Day 64** | _"Trusting our intuition often saves us from disaster."_ | **Anne Wilson Schaef** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-16 21:33:59 UTC` | **Day 65** | _"Experience is the name everyone gives to their mistakes."_ | **Oscar Wilde** | `Wisdom` (📚 Curated Archive) |
+| `2026-11-17 06:14:45 UTC` | **Day 66** | _"Clean code always looks like it was written by someone who cares."_ | **Robert C. Martin** | `Craftsmanship` (📚 Curated Archive) |
