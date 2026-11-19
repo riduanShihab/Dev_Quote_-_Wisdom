@@ -71,3 +71,4 @@
 | `2026-11-17 20:23:51 UTC` | **Day 67** | _"It will never rain roses: when we want to have more roses, we must plant more roses."_ | **George Eliot** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-18 05:41:24 UTC` | **Day 68** | _"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."_ | **Rumi** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-18 19:53:09 UTC` | **Day 69** | _"Software undergoes beta testing shortly before it’s released. Beta is Latin for 'still doesn’t work'."_ | **Anonymous** | `Humor` (📚 Curated Archive) |
+| `2026-11-19 05:40:25 UTC` | **Day 70** | _"Don’t write code for yourself today. Write code for the engineer who joins next year."_ | **Anonymous** | `Maintainability` (📚 Curated Archive) |
