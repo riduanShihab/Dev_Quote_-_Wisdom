@@ -75,3 +75,4 @@
 | `2026-11-19 19:53:31 UTC` | **Day 71** | _"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"_ | **Sathya Sai Baba** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-20 05:28:44 UTC` | **Day 72** | _"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."_ | **Mark Twain** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-20 19:32:56 UTC` | **Day 73** | _"Be the change that you want to see in the world."_ | **Mahatma Gandhi** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-21 05:21:44 UTC` | **Day 74** | _"Consistency is what transforms average into excellence."_ | **Anonymous** | `Habits` (📚 Curated Archive) |
