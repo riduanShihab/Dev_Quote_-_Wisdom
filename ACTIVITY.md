@@ -79,3 +79,4 @@
 | `2026-11-21 18:37:39 UTC` | **Day 75** | _"There is little success where there is little laughter."_ | **Andrew Carnegie** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-22 04:47:10 UTC` | **Day 76** | _"Progress lies not in enhancing what is, but in advancing toward what will be."_ | **Kahlil Gibran** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-22 18:57:57 UTC` | **Day 77** | _"Fix the cause, not the symptom."_ | **Steve Maguire** | `Debugging` (📚 Curated Archive) |
+| `2026-11-23 05:25:51 UTC` | **Day 78** | _"Where there is no struggle, there is no strength."_ | **Oprah Winfrey** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
