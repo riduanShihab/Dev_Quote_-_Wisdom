@@ -1,13 +1,13 @@
 {
-  "currentStreak": 84,
-  "longestStreak": 84,
-  "totalCommits": 84,
+  "currentStreak": 85,
+  "longestStreak": 85,
+  "totalCommits": 85,
   "startDate": "2026-10-16",
-  "lastUpdated": "2026-11-26 06:34:46 UTC",
-  "lastQuote": "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.",
-  "lastAuthor": "Mark Manson",
-  "lastCategory": "Wisdom & Mindset",
-  "lastSource": "🌐 Live API (ZenQuotes)",
+  "lastUpdated": "2026-11-26 20:51:19 UTC",
+  "lastQuote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+  "lastAuthor": "Edsger W. Dijkstra",
+  "lastCategory": "Debugging",
+  "lastSource": "📚 Curated Archive",
   "currentTier": "👑 Centurion",
   "nextGoal": 100
 }
