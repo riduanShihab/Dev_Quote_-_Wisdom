@@ -85,3 +85,4 @@
 | `2026-11-24 21:51:47 UTC` | **Day 81** | _"Code never lies, comments sometimes do."_ | **Ron Jeffries** | `Clean Code` (📚 Curated Archive) |
 | `2026-11-25 06:43:25 UTC` | **Day 82** | _"Alone we can do so little; together we can do so much."_ | **Helen Keller** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-25 20:58:34 UTC` | **Day 83** | _"A primary cause of complexity is that software vendors uncritically adopt almost any feature that's requested."_ | **Niklaus Wirth** | `Product` (📚 Curated Archive) |
+| `2026-11-26 06:34:46 UTC` | **Day 84** | _"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."_ | **Mark Manson** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
