@@ -88,3 +88,4 @@
 | `2026-11-26 06:34:46 UTC` | **Day 84** | _"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."_ | **Mark Manson** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
 | `2026-11-26 20:51:19 UTC` | **Day 85** | _"If debugging is the process of removing software bugs, then programming must be the process of putting them in."_ | **Edsger W. Dijkstra** | `Debugging` (📚 Curated Archive) |
 | `2026-11-27 06:24:33 UTC` | **Day 86** | _"Happiness is an effect of doing what you love, not an end goal to be achieved."_ | **Celestine Chua** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
+| `2026-11-27 20:36:46 UTC` | **Day 87** | _"The nearer a man comes to a calm mind, the closer he is to strength."_ | **Marcus Aurelius** | `Wisdom & Mindset` (🌐 Live API (ZenQuotes)) |
